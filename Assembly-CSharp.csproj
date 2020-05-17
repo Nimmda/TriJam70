@@ -45,7 +45,17 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\CameraController.cs" />
+     <Compile Include="Assets\MiniMap.cs" />
+     <Compile Include="Assets\Scripts\MapGenerator.cs" />
+     <Compile Include="Assets\Scripts\PlayerBaseState.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\PlayerMouseLook.cs" />
+     <Compile Include="Assets\Scripts\States\PlayerAirState.cs" />
+     <Compile Include="Assets\Scripts\States\PlayerBreedState.cs" />
+     <Compile Include="Assets\Scripts\States\PlayerDeadState.cs" />
+     <Compile Include="Assets\Scripts\States\PlayerGroundState.cs" />
+     <Compile Include="Assets\UIHealth.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/home/daniel/projects/Unity/TriJam70/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>

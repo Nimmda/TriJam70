@@ -8,6 +8,27 @@ TextureImporter:
   - first:
       213: -2298939645060189070
     second: Bird_Flying
+  - first:
+      213: -1403472282031404718
+    second: Bush
+  - first:
+      213: 8249375372414682945
+    second: Lake
+  - first:
+      213: 7393895333868669909
+    second: snowFlake
+  - first:
+      213: -2682216130450347719
+    second: island
+  - first:
+      213: -1418244540975955138
+    second: HealthFront
+  - first:
+      213: 3254431102607753621
+    second: islandMiniMap
+  - first:
+      213: -1418244540975955138
+    second: IslandMinimap
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -141,6 +162,132 @@ TextureImporter:
       bones: []
       spriteID: 274ff18b2968810e0800000000000000
       internalID: -2298939645060189070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2594969356dd58ce0800000000000000
+      internalID: -1403472282031404718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lake
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 154
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14702a3b13bab7270800000000000000
+      internalID: 8249375372414682945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowFlake
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 145
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db09a1b1a46c9660800000000000000
+      internalID: 7393895333868669909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 82
+        width: 109
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9392fade3aad6cad0800000000000000
+      internalID: -2682216130450347719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IslandMinimap
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33cd7aaa12615ce0800000000000000
+      internalID: -1418244540975955138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthEmpty
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5910be858df0a2d20800000000000000
+      internalID: 3254431102607753621
       vertices: []
       indices: 
       edges: []
