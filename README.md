@@ -1,5 +1,5 @@
 # TriJam70
-a game under 3 hours, well almost 3:26h :), for the Trijam70 on itch.io.
+a game under 3 hours, well almost 3:26h :), for the [Trijam70](https://itch.io/jam/trijam-70) on [itch](https://itch.io/).
 
 I totally underestimated the the timeframe. :D Next time I need better preparation and smaller scope, but it was still quite fun.
 
