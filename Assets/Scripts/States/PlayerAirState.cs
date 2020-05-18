@@ -15,7 +15,8 @@ public class PlayerAirState : PlayerBaseState
 
     public override void Exit(PlayerController pc)
     {
-
+        isOnIsland = false;
+        isOnBreedingIsland = false;
     }
 
     public override void FixedUpdate(PlayerController pc)
